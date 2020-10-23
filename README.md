@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" alt="Chris DeMars's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chrisdemars&show_icons=true&hide_border=true" />
+<img align="left" alt="Chris DeMars's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CDeMarsQL&show_icons=true&hide_border=true" />
 
 [website]: https://chrisdemars.com
 [twitter]: https://twitter.com/saltnburnem
